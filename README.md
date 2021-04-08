@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Cash-in" src="github/logo.svg" />
+    <img alt="Cash-in" src="./github/logo.svg" />
 </h1>
 
 # Cash-in 
