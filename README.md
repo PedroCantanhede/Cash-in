@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Cash-in" src="github/logo.SVG" />
+    <img alt="Cash-in" src="github/logo.svg" />
 </h1>
 
 # Cash-in 
@@ -44,7 +44,6 @@ Link do Tutorial: https://www.youtube.com/watch?v=piG91X4sV2U
 ### Código:
 ![image](github/codigo.JPG)
 
-## :rocket: Tecnologia
 
 
 
